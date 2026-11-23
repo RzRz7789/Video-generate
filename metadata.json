@@ -1,0 +1,8 @@
+{
+  "name": "Reka Studio",
+  "description": "Studio otomatis berbasis AI untuk mengubah teks dan foto menjadi konten video media sosial, naskah, voiceover, dan slide profesional berdurasi 1 menit atau lebih.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
